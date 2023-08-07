@@ -52,6 +52,7 @@ class SpringappApplicationTests {
 		int diff =obj.sub();
         assertEquals(70, sum);
 		assertEquals(10, diff);
+		//close
 		
 	}
 
